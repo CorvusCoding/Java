@@ -1,0 +1,11 @@
+class trigtablerad {
+	public static void main (String args[]) {
+		double c,s,t;
+		int d = 0; 
+		double r = 0;
+		double 3.141592653589793238462643383279502884137169399376580974;
+		double i = (pi/12);
+		String undefined = "UN";
+		System.out.println ("radian measurement is represented as rad");
+		System.out.println("/t/t rad /t/t| cos(radian) /t/t| sin(rad /t/t| tan (rad)" );
+		while (r <=
